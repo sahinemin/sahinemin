@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **flutter,dart,java,spring**
 
-- 📫 How to reach me **emin.sahin@agu.edu.tr**
+- 📫 How to reach me **seeminsahin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
